@@ -96,6 +96,11 @@ hr.smalldivider {
 
 #introduction {
   padding-top: 800px;
+  padding-bottom: 40px;
+}
+
+#introduction2 {
+  padding-top: 1px;
   padding-bottom: 400px;
 }
 
@@ -213,11 +218,21 @@ hr.smalldivider {
   margin-right:auto;
   height: 550px;
   width: 550px;
-  background-color: #d4d4d4;
+  background-color: #979696;
   padding: 10px 10px 10px 10px;
   border-radius: 10px;
 }
 
+.box2 {
+  margin:auto;
+  margin-left:auto;
+  margin-right:auto;
+  height: 550px;
+  width: 550px;
+  background-color: #979696;
+  padding: 10px 10px 10px 10px;
+  border-radius: 10px;
+}
 .embeds {
   border-radius: 10px;
   animation: zoomout 1s;
